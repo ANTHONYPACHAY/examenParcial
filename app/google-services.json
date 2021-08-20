@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902540515362",
+    "project_id": "examenparcial-79e2f",
+    "storage_bucket": "examenparcial-79e2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902540515362:android:3417d3f92eb05c053bd27b",
+        "android_client_info": {
+          "package_name": "anthony.uteq.examenfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902540515362-ve8d8cf2je8frf7fqb5ohh776ngfe4e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHLDs231J6bi-97UFmno6ciphOI9VUAYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902540515362-ve8d8cf2je8frf7fqb5ohh776ngfe4e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
